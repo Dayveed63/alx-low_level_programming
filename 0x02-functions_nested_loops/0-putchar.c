@@ -1,9 +1,12 @@
 include "main.h"
 
 /**
- * main - Entry point
+ * main - Prints putchar
+ * @void: Empty parameter list for main.
  *
- * Return: 0 nothing, return void
+ * Description: Prints putchar w/out stdio
+ * 
+ * Return: 0 for success
  */
 int main(void)
 {
